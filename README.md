@@ -1,3 +1,4 @@
+Reference: sentdex Neural Network from Scratch series [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 ##  A Neuron
 ![alt text](./assets/image.png)
 ![alt text](./assets/image-1.png)
